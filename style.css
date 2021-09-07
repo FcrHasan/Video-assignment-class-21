@@ -1,0 +1,5 @@
+.my_icon span{display: inline-block;height: 50px;width: 50px;line-height: 3rem;transition: .5s;}.my_icon span:hover{background: #e7e3e3;}header ul li a{font-weight: 700}header ul li a:hover{color: #0d89fd !important;opacity: 1;}
+/* Slider sEction */
+.slider_section .carousel-item{height: 650px;}.slider_section .carousel-inner img{height: 100%;}.slider_section .carousel-control-prev, .slider_section .carousel-control-next{width: 5%;}
+
+/*  */
